@@ -1,1 +1,1 @@
-"# CSES ProblemSet" 
+# CSES ProblemSet
